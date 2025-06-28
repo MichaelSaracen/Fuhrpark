@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="/">
+    <file>cars/audi v13 tuning sportwage.png</file>
+    <file>icons/auswahl.png</file>
+    <file>icons/buy.png</file>
+    <file>icons/calendar.png</file>
+    <file>icons/euro.png</file>
+    <file>icons/car_prev.png</file>
+    <file>icons/customers.png</file>
+    <file>icons/hist.png</file>
+    <file>icons/history.png</file>
+    <file>icons/home.png</file>
+    <file>icons/rent.png</file>
+    <file>icons/statistic.png</file>
+    <file>icons/status.png</file>
+    <file>icons/edit.png</file>
+    <file>icons/chev_l.png</file>
+    <file>icons/chev_r.png</file>
+    <file>icons/close.png</file>
+    <file>icons/more.png</file>
+    <file>icons/collapse_all.png</file>
+    <file>icons/search.png</file>
+    <file>icons/unfold_all.png</file>
+  </qresource>
+</RCC>
