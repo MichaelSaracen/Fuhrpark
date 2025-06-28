@@ -92,6 +92,9 @@ class RentFormular(QWidget):
         brand: str = current.data(0, Qt.ItemDataRole.UserRole)
         model: str = current.data(0, Qt.ItemDataRole.UserRole + 1)
 
+        if not self._available:
+            return
+        
         if brand not in list(self._available.keys()):
             return
 
